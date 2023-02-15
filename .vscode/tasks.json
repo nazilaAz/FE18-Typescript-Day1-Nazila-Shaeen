@@ -1,0 +1,25 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "typescript",
+			"tsconfig": "../../../../../F:/Programming/CodeFactory_Prog/TypeScript/FE18-Typescript-Day1-Nazila-Shaeen/tsconfig.json",
+			"option": "watch",
+			"problemMatcher": [
+				"$tsc-watch"
+			],
+			"group": "build",
+			"label": "tsc: watch - ../../../../../F:/Programming/CodeFactory_Prog/TypeScript/FE18-Typescript-Day1-Nazila-Shaeen/tsconfig.json"
+		},
+		{
+			"type": "typescript",
+			"tsconfig": "../../../../../F:/Programming/CodeFactory_Prog/TypeScript/FE18-Typescript-Day1-Nazila-Shaeen/Nazila/EX-2/tsconfig.json",
+			"option": "watch",
+			"problemMatcher": [
+				"$tsc-watch"
+			],
+			"group": "build",
+			"label": "tsc: watch - ../../../../../F:/Programming/CodeFactory_Prog/TypeScript/FE18-Typescript-Day1-Nazila-Shaeen/Nazila/EX-2/tsconfig.json"
+		}
+	]
+}
